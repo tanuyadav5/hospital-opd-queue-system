@@ -1,4 +1,7 @@
 # Hospital OPD Queue Management System
+https://hospital-opd-queue-system-2.onrender.com
+
+**Demo logins:** admin / admin123 and staff / staff123 (demo data only)
 
 Patients take a token for a department, track their position and estimated wait live, and see the queue on a waiting-hall screen. Doctors call patients (emergency and senior citizens first) and admins view analytics.
 
